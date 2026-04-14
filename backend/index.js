@@ -67,3 +67,4 @@ app.get('/mood-history', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Backend server running on port ${PORT}`);
 });
+
